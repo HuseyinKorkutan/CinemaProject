@@ -1,0 +1,17 @@
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.Business.deps.json
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.Business.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.Business.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.DataAccess.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.Entities.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.DataAccess.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\bin\Debug\net8.0\CinemaProject.Entities.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.csproj.AssemblyReference.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.AssemblyInfoInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.AssemblyInfo.cs
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaPr.C4F53331.Up2Date
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\refint\CinemaProject.Business.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\CinemaProject.Business.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Business\obj\Debug\net8.0\ref\CinemaProject.Business.dll

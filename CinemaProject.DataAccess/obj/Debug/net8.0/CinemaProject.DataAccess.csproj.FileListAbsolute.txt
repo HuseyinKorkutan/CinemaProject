@@ -1,0 +1,17 @@
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.AssemblyInfo.cs
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.DataAccess.deps.json
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.DataAccess.runtimeconfig.json
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.DataAccess.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.DataAccess.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.Entities.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\bin\Debug\net8.0\CinemaProject.Entities.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaPr.28577BDA.Up2Date
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\refint\CinemaProject.DataAccess.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\CinemaProject.DataAccess.genruntimeconfig.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.DataAccess\obj\Debug\net8.0\ref\CinemaProject.DataAccess.dll

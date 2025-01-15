@@ -1,0 +1,12 @@
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\bin\Debug\net8.0\CinemaProject.Entities.deps.json
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\bin\Debug\net8.0\CinemaProject.Entities.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\bin\Debug\net8.0\CinemaProject.Entities.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.csproj.AssemblyReference.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.AssemblyInfoInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.AssemblyInfo.cs
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\refint\CinemaProject.Entities.dll
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\CinemaProject.Entities.pdb
+C:\Users\HÜSEYİN\Desktop\CinemaProject\CinemaProject.Entities\obj\Debug\net8.0\ref\CinemaProject.Entities.dll
